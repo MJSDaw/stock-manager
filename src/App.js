@@ -6,7 +6,6 @@ import Listado from './components/Listado';
 import Detalle from './components/Detalle';
 import Crear from './components/Crear';
 import Actualizar from './components/Actualizar';
-import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
   return (
